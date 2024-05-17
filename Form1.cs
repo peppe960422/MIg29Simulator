@@ -30,7 +30,7 @@ namespace _2dd
         public List<Proiettile> proiettili = new List<Proiettile>();
 
 
-        public int X = 99;
+        public int X = 100;
         public int Y = 700;
         int[] Xnuvola = { 100, 450, 700, 800, 550, 950, 1600, 1100, 1250 };
         int[] Yamericanopartenza = { -60, -70, -150 };
